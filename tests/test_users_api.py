@@ -60,9 +60,6 @@ def test_delete_users(api_client):
     assert response.status_code == 200
 
 
-## my code will be updted in new test sub branch
-## new test branch 01
-
 
 """
 
