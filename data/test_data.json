@@ -1,0 +1,14 @@
+{
+  "new_user": {
+        "name": "Kiran Kumar",
+        "username": "development user",
+        "email": "development@gmail.com"
+    },
+
+  "update_existing_user" : {
+
+        "name": "Raju Mari K",
+        "username": "dummy user",
+        "email": "dummyuser@gmail.com"
+  }
+}
